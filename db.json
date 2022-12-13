@@ -1,44 +1,43 @@
-data() {
-  return {
-  werken: [
+ {
+   "werken":[
     {
-      id: 1,
-      category: "webdesign",
-      title: "Proxpace webdesign",
-      description: "Proxpace webdesign in photoshop/illustrator",
+      "id": 1,
+      "category": "webdesign",
+      "title": "Proxpace webdesign",
+      "description": "Proxpace webdesign in photoshop/illustrator",
     },
     {
-      id: 2,
-      category: "vue",
-      title: "Kassasysteem",
-      description:
+      "id": 2,
+      "category": "vue",
+      "title": "Kassasysteem",
+      "description":
       "Een kassasysteem opgebouwd met vue component zonder @vue/cli. De bedoeling is om hier een notie te krijgen van de standaard onderdelen van het basis vue component. Onderdelen zoals: data, methods, computed, ...",
     },
     {
-      id: 3,
-      category: "bootstrap",
-      title: "eindwerk responsive webshop",
-      description:
+      "id": 3,
+      "category": "bootstrap",
+      "title": "eindwerk responsive webshop",
+      "description":
       "De bedoeling hier is om alle pagina's af te werken voor een STATISCHE RESPONSIVE webshop tegen begin januari 2023",
     },
     {
-      id: 3,
-      category: "concert",
-      title: "Pukkelpop",
-      description: "Festival Rock",
-      location: "Hasselt",
-      date: "July 22 2021",
-      time: "09:00",
-      imagePath: "pukkelpop.png",
+      "id": 3,
+      "category": "concert",
+      "title": "Pukkelpop",
+      "description": "Festival Rock",
+      "location": "Hasselt",
+      "date": "July 22 2021",
+      "time": "09:00",
+      "imagePath": "pukkelpop.png",
     },
     {
-      id: 4,
-      category: "concert",
-      title: "Graspop",
-      description: "Festival Rock",
-      location: "Dessel",
-      date: "July 04 2021",
-      time: "09:00",
-      imagePath: "graspop.png",
-    },
-  ],
+      "id": 4,
+      "category": "concert",
+      "title": "Graspop",
+      "description": "Festival Rock",
+      "location": "Dessel",
+      "date": "July 04 2021",
+      "time": "09:00",
+      "imagePath": "graspop.png",
+    } ]
+ }
