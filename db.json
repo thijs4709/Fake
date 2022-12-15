@@ -26,7 +26,7 @@
          "imagePath": "rockwerchter.png",
          "detail": {
            "parking": true,
-           "beperking": true,
+           "beperking": false,
            "foodshops": true
          }
        },
@@ -42,7 +42,7 @@
          "detail": {
            "parking": true,
            "beperking": true,
-           "foodshops": true
+           "foodshops": false
          }
        },
        {
@@ -56,8 +56,8 @@
          "imagePath": "graspop.png",
          "detail": {
            "parking": true,
-           "beperking": true,
-           "foodshops": true
+           "beperking": false,
+           "foodshops": false
          }
        } ]
  }
